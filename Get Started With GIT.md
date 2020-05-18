@@ -1,17 +1,13 @@
-Get Started with Git
+# Get Started with Git
 
-Video Links
-
-- https://youtu.be/MJUJ4wbFm_A
-
-git clone <url>
+git clone [url]
 
 - make a copy of a repository
 - store it on your computer
 - a "fork" creates your own copy of someone else's repository 
 
 
-git add <filename>
+git add [filename]
  
 - add file to "staging area"
 - tell git to include the file in the next revision to the repository
@@ -54,3 +50,4 @@ Merge Conflicts
 
 
 
+Video Links - https://youtu.be/MJUJ4wbFm_A
