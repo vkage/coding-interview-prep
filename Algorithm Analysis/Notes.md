@@ -40,5 +40,5 @@ Example
 	 return 0;
 	}
 
-[modula arithmatic explained] [https://brilliant.org/wiki/modular-arithmetic/]
+[modula arithmatic explained](https://brilliant.org/wiki/modular-arithmetic/)
 
